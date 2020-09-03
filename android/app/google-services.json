@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "995383748902",
+    "firebase_url": "https://liondna-81a8c.firebaseio.com",
+    "project_id": "liondna-81a8c",
+    "storage_bucket": "liondna-81a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995383748902:android:f33787f162bfa8ecfef9e7",
+        "android_client_info": {
+          "package_name": "com.liondna.app_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995383748902-f86clv8kac001pkimdusacr2a1thdbet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpB-pEoQ4ba9pG66tEraJ1MkIEEVaK3rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995383748902-f86clv8kac001pkimdusacr2a1thdbet.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995383748902-ifpv0jbv5ifgo67a153u7ecuci7me9h6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.liondna.app"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9596845007514109~3711570259"
+    }
+  ],
+  "configuration_version": "1"
+}
